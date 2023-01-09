@@ -1,1 +1,1 @@
-Project 1 in the WorldQuant University Data Science Lab
+This is Project 1 in the WorldQuant University Data Science Lab
