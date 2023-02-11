@@ -30,7 +30,7 @@ The results of this project were communicated as follows:
 
 * A function (make_prediction) that takes 4 arguments (surface covered, latitude, longitude, and borough) and returns the model's prediction for an apartment price. This function can be used to make predictions for new apartments based on their features.
 
-An interactive widget made with Jupyter widgets, which can be adjusted to see how predicted apartment prices change based on different input values. This widget provides an interactive way to explore the model's predictions and understand the impact of various features on apartment prices.
+* An interactive widget made with Jupyter widgets, which can be adjusted to see how predicted apartment prices change based on different input values. This widget provides an interactive way to explore the model's predictions and understand the impact of various features on apartment prices.
 
 Usage
 To use this project, you will need to install the required dependencies listed in the requirements.txt file. Once the dependencies are installed, you can run the code in the Jupyter notebooks to recreate the results and interact with the widget.
