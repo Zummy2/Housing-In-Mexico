@@ -28,7 +28,7 @@ The results of this project were communicated as follows:
 
 * A visualization of the most important boroughs in Mexico City based on the model's predictions. This visualization provides insights into which boroughs have the highest and lowest predicted apartment prices.
 
-A function (make_prediction) that takes 4 arguments (surface covered, latitude, longitude, and borough) and returns the model's prediction for an apartment price. This function can be used to make predictions for new apartments based on their features.
+* A function (make_prediction) that takes 4 arguments (surface covered, latitude, longitude, and borough) and returns the model's prediction for an apartment price. This function can be used to make predictions for new apartments based on their features.
 
 An interactive widget made with Jupyter widgets, which can be adjusted to see how predicted apartment prices change based on different input values. This widget provides an interactive way to explore the model's predictions and understand the impact of various features on apartment prices.
 
