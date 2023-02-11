@@ -35,6 +35,6 @@ The results of this project were communicated as follows:
 ## Usage
 It is important to note that this project is for educational purposes only and the results should not be used for real-world decision making without proper verification and validation.
 
-Conclusion
+## Conclusion
 In conclusion, this project aimed to create a predictive model for apartment prices in Mexico City using data science techniques. The results of the project provide insights into the real estate market in Mexico City and can be used to make informed decisions about property investments. This project serves as an example of how data science can be applied to real-world
 
