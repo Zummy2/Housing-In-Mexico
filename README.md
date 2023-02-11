@@ -32,9 +32,7 @@ The results of this project were communicated as follows:
 
 * An interactive widget made with Jupyter widgets, which can be adjusted to see how predicted apartment prices change based on different input values. This widget provides an interactive way to explore the model's predictions and understand the impact of various features on apartment prices.
 
-Usage
-To use this project, you will need to install the required dependencies listed in the requirements.txt file. Once the dependencies are installed, you can run the code in the Jupyter notebooks to recreate the results and interact with the widget.
-
+## Usage
 It is important to note that this project is for educational purposes only and the results should not be used for real-world decision making without proper verification and validation.
 
 Conclusion
